@@ -1,0 +1,18 @@
+[
+    {
+        "id_indicador": "SP.POP.TOTL",
+        "descripcion": "Total de población"
+    },
+    {
+        "id_indicador": "SP.POP.GROW",
+        "descripcion": "Crecimiento anual de la población (%)"
+    },
+    {
+        "id_indicador": "SP.URB.TOTL",
+        "descripcion": "Población urbana"
+    },
+    {
+        "id_indicador": "SP.RUR.TOTL",
+        "descripcion": "Población rural"
+    }
+]

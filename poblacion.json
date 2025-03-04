@@ -1,0 +1,252 @@
+[
+    {
+        "ano": 2000,
+        "pais": "Colombia",
+        "codigo_iso3": "COL",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 40000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2010,
+        "pais": "Colombia",
+        "codigo_iso3": "COL",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 46000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2020,
+        "pais": "Colombia",
+        "codigo_iso3": "COL",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 50000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2022,
+        "pais": "Colombia",
+        "codigo_iso3": "COL",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 51000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2023,
+        "pais": "Colombia",
+        "codigo_iso3": "COL",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 52000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2000,
+        "pais": "Venezuela",
+        "codigo_iso3": "VEN",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 24000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2010,
+        "pais": "Venezuela",
+        "codigo_iso3": "VEN",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 29000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2020,
+        "pais": "Venezuela",
+        "codigo_iso3": "VEN",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 28000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2022,
+        "pais": "Venezuela",
+        "codigo_iso3": "VEN",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 27000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2023,
+        "pais": "Venezuela",
+        "codigo_iso3": "VEN",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 26000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2000,
+        "pais": "Estados Unidos",
+        "codigo_iso3": "USA",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 282000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2010,
+        "pais": "Estados Unidos",
+        "codigo_iso3": "USA",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 309000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2020,
+        "pais": "Estados Unidos",
+        "codigo_iso3": "USA",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 331000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2022,
+        "pais": "Estados Unidos",
+        "codigo_iso3": "USA",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 335000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2023,
+        "pais": "Estados Unidos",
+        "codigo_iso3": "USA",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 338000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2000,
+        "pais": "Brasil",
+        "codigo_iso3": "BRA",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 174000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2010,
+        "pais": "Brasil",
+        "codigo_iso3": "BRA",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 196000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2020,
+        "pais": "Brasil",
+        "codigo_iso3": "BRA",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 212000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2022,
+        "pais": "Brasil",
+        "codigo_iso3": "BRA",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 215000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2023,
+        "pais": "Brasil",
+        "codigo_iso3": "BRA",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 217000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2000,
+        "pais": "Inglaterra",
+        "codigo_iso3": "UKE",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 49000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2010,
+        "pais": "Inglaterra",
+        "codigo_iso3": "UKE",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 52000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2020,
+        "pais": "Inglaterra",
+        "codigo_iso3": "UKE",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 56000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2022,
+        "pais": "Inglaterra",
+        "codigo_iso3": "UKE",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 57000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2023,
+        "pais": "Inglaterra",
+        "codigo_iso3": "UKE",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 57500000,
+        "estado": "disponible",
+        "unidad": "personas"
+    }
+]

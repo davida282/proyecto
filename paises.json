@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": "Colombia",
+        "codigo_iso": "CO",
+        "codigo_iso3": "COL"
+    },
+    {
+        "nombre": "Venezuela",
+        "codigo_iso": "VE",
+        "codigo_iso3": "VEN"
+    },
+    {
+        "nombre": "Estados Unidos",
+        "codigo_iso": "US",
+        "codigo_iso3": "USA"
+    },
+    {
+        "nombre": "Brasil",
+        "codigo_iso": "BR",
+        "codigo_iso3": "BRA"
+    },
+    {
+        "nombre": "Inglaterra",
+        "codigo_iso": "UK",
+        "codigo_iso3": "UKE"
+    }
+]
