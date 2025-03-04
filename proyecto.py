@@ -626,6 +626,56 @@ def generar_reportes(sistema):
             print("\n=== AÑOS CON DATOS DE MÁS DE 50 PAÍSES ===")
             años = sistema.años_datos_multiples_paises(50)
             print("Años:", años)
+        elif opcion == 'Z':
+            break
+        else:
+            print("Opción no válida. Intente de nuevo.")
+
+def main():
+    sistema = SistemaEstadisticasGlobales()
+    
+    while True:
+        print("\n=== MENÚ PRINCIPAL ===")
+        print("1. Agregar datos de población")
+        print("2. Agregar país")
+        print("3. Agregar indicador")
+        print("4. Generar reportes")
+        print("5. Salir")
+        
+        opcion = input("Seleccione una opción (1-5): ")
+        
+        if opcion == '1':
+            año = int(input("Ingrese el año: "))
+            pais = input("Ingrese el nombre del país: ")
+            indicador_id = input("Ingrese el ID del indicador: ")
+            valor = int(input("Ingrese el valor de la población: "))
+            estado = input("Ingrese el estado (disponible/no disponible): ")
+            unidad = input("Ingrese la unidad (default: personas): ") or "personas"
+            sistema.agregar_dato_poblacion(año, pais, indicador_id, valor, estado, unidad)
+        
+        elif opcion == '2':
+            nombre = input("Ingrese el nombre del país: ")
+            codigo_iso = input("Ingrese el código ISO del país: ")
+            codigo_iso3 = input("Ingrese el código ISO3 del país: ")
+            sistema.agregar_pais(nombre, codigo_iso, codigo_iso3)
+        
+        elif opcion == '3':
+            id_indicador = input("Ingrese el ID del indicador: ")
+            descripcion = input("Ingrese la descripción del indicador: ")
+            sistema.agregar_indicador(id_indicador, descripcion)
+        
+        elif opcion == '4':
+            generar_reportes(sistema)
+        
+        elif opcion == '5':
+            print("Saliendo del sistema...")
+            break
+        
+        else:
+            print("Opción no válida. Intente de nuevo.")
+
+if __name__ == "__main__":
+    main()
 
 
         
